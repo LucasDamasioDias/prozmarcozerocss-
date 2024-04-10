@@ -1,0 +1,38 @@
+.menu ul {
+    display: flex; 
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+}
+
+.menu ul li {
+    margin-right: 10px; 
+}
+
+.item-menu {
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid; 
+    border-radius: 10px; 
+}
+
+.item-menu:hover {
+    background-color: #f0f0f0; 
+}
+
+body {
+    background: linear-gradient(to right, #ffcc66, #ff9933);
+ }
+
+h1, h2 {
+    color: #fff; 
+}
+
+.img {
+   height: 200px;
+   width: 200px;
+}
+
+#fonte{
+   color: blue;
+}
